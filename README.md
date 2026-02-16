@@ -54,22 +54,22 @@ No backend or external database is used. All product data is loaded from local J
 ## Screenshots
 
 ### Home Page
-![Home Page](./assets/screenshots/home.png)
+![Home Page](./public/assets/screenshots/home.png)
 
 ### Product
-![Product](./assets/screenshots/product.png)
+![Product](./public/assets/screenshots/product.png)
 
 ### Product Details
-![Product Details](./assets/screenshots/details.png)
+![Product Details](./public/assets/screenshots/details.png)
 
 ### Cart
 ![Cart](./assets/screenshots/cart.png)
 
 ### Orders
-![Orders](./assets/screenshots/orders.png)
+![Orders](./public/assets/screenshots/orders.png)
 
 ### Search Results
-![Search Results](./assets/screenshots/search.png)
+![Search Results](./public/assets/screenshots/search.png)
 
 ---
 
@@ -84,4 +84,4 @@ cd Eshop-React
 
  *** ****Install dependencies:***
  ```bash
- npm installnpm install
+ npm install
