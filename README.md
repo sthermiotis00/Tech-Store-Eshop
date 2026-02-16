@@ -5,11 +5,6 @@ This project demonstrates component architecture, state management with Context 
 
 ---
 
-## Live Demo
-
-(Add deployment link here if available)
-
----
 
 ## Features
 
