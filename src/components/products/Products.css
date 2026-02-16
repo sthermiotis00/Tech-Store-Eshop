@@ -1,0 +1,122 @@
+.products {
+    padding: 50px 0px 0px 0px;
+    max-width: 1200px;
+}
+
+.products h3 {
+    padding: 0px 25px;
+    text-decoration: underline;
+    font-size: 28px;
+    color: #525252;
+}
+
+.products-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: stretch;
+    padding: 20px;
+      position: relative;
+  z-index: 1;
+
+}
+
+.products-group {
+    flex: 0 calc(25% - 20px);
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+     position: relative;
+  z-index: 10;
+    pointer-events: auto !important;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(3, 3, 3, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.products-group * {
+  pointer-events: auto;
+}
+.products-group:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.products-links {
+    text-decoration: none;
+}
+
+.products-img img {
+    width: 100%;
+    height: 160px;
+    object-fit: contain;
+    padding: 10px 0px;
+}
+
+.products-label {
+    color: black;
+    font-size: 18px;
+    padding: 10px;
+    text-align: left;
+    min-height: 60px;
+    max-height: 60px;
+    overflow: hidden;
+}
+
+
+.products-price {
+    color: black;
+    font-size: 18px;
+    padding: 30px 0px 0px 10px;
+    margin-top: auto;
+    font-weight: 700;
+    text-align: left;
+}
+
+.qty-controls {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+    
+}
+
+.qty-controls button {
+    width: 32px;
+    height: 32px;
+    border: 1px solid #000;
+      cursor: pointer;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+
+.qty-controls button:hover {
+    background-color: #000;
+    color: #fff;
+
+}
+
+.add-to-cart-btn {
+    width: 100px;
+    margin-top: 10px;
+    padding: 8px 0;
+  cursor: pointer;
+
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 6px;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    transition: all 0.2s ease;
+}
+
+.add-to-cart-btn:hover {
+    background-color: #000;
+    color: #fff;
+}

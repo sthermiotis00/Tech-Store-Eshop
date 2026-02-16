@@ -1,0 +1,37 @@
+[
+  {
+    "id": "t1",
+    "name": "Samsung QE50Q7F Smart 50\" 4K UHD QLED HDR (2025)",
+    "img": "/assets/photos/tvs/samsung50.png",
+    "price": 341.00,
+    "desc": "Samsung 50' QLED Q7F 4K Vision AI Smart TV with QLED technology offers vivid and bright colors. The 4K UHD resolution ensures detailed and clear images, ideal for any use. It supports HDR10+ and Quantum HDR, while the 20-watt sound with Object Tracking Sound Lite follows the action on the screen for a more immersive experience."
+  },
+  {
+    "id": "t2",
+    "name": "Toshiba 40LV2463DG Smart 40\" Full HD Edge LED HDR (2023)",
+    "img": "/assets/photos/tvs/toshiba.png",
+    "price": 186.00,
+    "desc": "Toshiba LV2463DG FHD Vidaa Smart TV delivers vivid colors and excellent contrast in every scene. It features HDMI, USB, and Wi-Fi for easy connection of all your devices and convenient content streaming."
+  },
+  {
+    "id": "t3",
+    "name": "LG Evo OLED77C46LA Smart 77\" 4K UHD OLED HDR (2024)",
+    "img": "/assets/photos/tvs/lgevo.png",
+    "price": 2.799,
+    "desc": "LG C46LA OLED EVO Smart TV offers a cinematic experience with Dolby Vision, AI Sound Pro, and Dolby Atmos technologies. With brightness that adapts to the room and compatibility with AMD FreeSync & NVIDIA G-SYNC."
+  },
+  {
+    "id": "t4",
+    "name": "Tesla 40E635BFS Smart 40\" Full HD Edge LED (2023)",
+    "img": "/assets/photos/tvs/tesla.png",
+    "price": 173.00,
+    "desc": "Tesla E635BFS 40' Full HD LED offers excellent image quality, HDMI & USB ports, and a slim design. Ideal for any space with its sleek profile and modern look."
+  },
+  {
+    "id": "t5",
+    "name": "F&U FLG50141QL Smart 50\" 4K UHD QLED HDR (2024)",
+    "img": "/assets/photos/tvs/fu.png",
+    "price": 299.00,
+    "desc": "F&U FLG50141QL 50' 4K UHD QLED offers rich colors, HDR images, and easy access to streaming apps such as Netflix and YouTube. With a slim bezel and modern design."
+  }
+]

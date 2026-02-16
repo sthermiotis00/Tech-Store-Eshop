@@ -1,0 +1,72 @@
+[
+  {
+    "id": "p1",
+    "name": "Iphone 17 Pro 256GB Deep Blue",
+    "img": "/assets/photos/phones/iphone17prodeepblue2561349.png",
+    "price": 1349,
+    "desc": "The iPhone 17 Pro features Ceramic Shield 2 and a high-strength aluminum frame, offering protection against drops and scratches. It is water and dust resistant with an IP68 rating, meaning you can use it without worry in the rain or near liquids."
+  },
+  {
+    "id": "p2",
+    "name": "Iphone 16 128GB",
+    "img": "/assets/photos/phones/appleiphone16128gb645.png",
+    "price": 645.00,
+    "desc": "The iPhone 16 offers powerful performance thanks to the A17 chip and excellent energy efficiency. It features a high-resolution OLED display and an improved camera system for shots with natural colors and impressive detail."
+  },
+  {
+    "id": "p3",
+    "name": "Iphone 17 Pro 256GB White",
+    "img": "/assets/photos/phones/iphone17prowhite2561290.png",
+    "price": 1200,
+    "desc": "The iPhone 17 Pro White combines elegant design with the cutting-edge performance of the A19 Pro chip. The improved 48MP camera delivers professional-quality photos, while Ceramic Shield 2 ensures superior durability."
+  },
+  {
+    "id": "p4",
+    "name": "Samsung Galaxy A56 8GB 256GB",
+    "img": "/assets/photos/phones/samsunggalaxya568gb256gb263.png",
+    "price": 263.00,
+    "desc": "The Samsung Galaxy A56 offers a 120Hz Super AMOLED display, powerful Snapdragon processor, and high-resolution camera for clear shots. Ideal for everyday use with a large battery and fast charging support."
+  },
+  {
+    "id": "p5",
+    "name": "Apple iPhone 15 128GB",
+    "img": "/assets/photos/phones/appleiphone15128gb544.png",
+    "price": 544.00,
+    "desc": "The iPhone 15 features the A16 Bionic chip, a bright Super Retina XDR display, and a 48MP dual-camera system. With improved battery life and Dynamic Island, it offers a premium user experience."
+  },
+  {
+    "id": "p6",
+    "name": "Samsung Galaxy Z Fold7 12GB 256GB",
+    "img": "/assets/photos/phones/samsunggalaxyzfold712gb256gb1169.png",
+    "price": 1169,
+    "desc": "The Galaxy Z Fold7 is a revolutionary foldable smartphone with a 7.6' AMOLED display, powerful Snapdragon 8 Gen 3 processor, and advanced multitasking. Durable and flexible, it offers a tablet experience in a portable size."
+  },
+  {
+    "id": "p7",
+    "name": "Xiaomi Redmi Note 14 Pro 5G NFC 12GB 512GB",
+    "img": "/assets/photos/phones/xiaomiredminote14pro5gnfc12gb512gb322.png",
+    "price": 322.00,
+    "desc": "The Redmi Note 14 Pro 5G offers excellent performance with a Snapdragon 7s Gen 2 processor, 120Hz AMOLED display, and 200MP camera. It supports NFC and 67W fast charging for ultimate convenience."
+  },
+  {
+    "id": "p8",
+    "name": "Samsung Galaxy S25 Ultra 256GB",
+    "img": "/assets/photos/phones/samsunggalaxys25ultra256gb812.png",
+    "price": 812.00,
+    "desc": "The Samsung Galaxy S25 Ultra brings cutting-edge technology with a 200MP camera, powerful Exynos/Qualcomm chipset, and 120Hz Dynamic AMOLED 2X display. It combines performance, design, and smart AI features."
+  },
+  {
+    "id": "p9",
+    "name": "Samsung Galaxy S24 Ultra 512GB",
+    "img": "/assets/photos/phones/s24.png",
+    "price": 900.00,
+    "desc": " More than just a smartphone. The Samsung Galaxy S24 Ultra's AI system makes it more than just a smartphone, with features that will make your everyday life even easier and help you express yourself."
+  },
+  {
+    "id": "p10",
+    "name": "Iphone 17 Pro 512GB Cosmic Orange",
+    "img": "/assets/photos/phones/iphone17pro.png",
+    "price": 1599,
+    "desc": "The iPhone 17 Pro features Ceramic Shield 2 and a high-strength aluminum frame, offering protection against drops and scratches. It is water and dust resistant with an IP68 rating, meaning you can use it without worry in the rain or near liquids."
+  }
+]

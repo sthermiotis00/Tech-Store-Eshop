@@ -1,0 +1,31 @@
+[
+  {
+    "id":"s1",
+    "name": "Xiaomi Redmi Watch 5 Obsidian Black",
+    "img": "/assets/photos/smartwatches/watch5.png",
+    "price": 81.90,
+    "desc": "Unbeatable! The Xiaomi Redmi Watch 5 has a 2.07' AMOLED display with a density of 324PPI. It reaches 1500 nits brightness, so it is visible even in sunlight, while the 5-60Hz refresh rate saves battery life and provides a smooth viewing experience. The Xiaomi Redmi Watch 5 includes 150+ sports options to record and track your performance. At the same time, the 5-system GNSS will not only record the distance but also help you find your way back. Furthermore, the device is water resistant up to 5 ATM, and all data is stored in the Mi Fitness app. The Xiaomi Redmi Watch 5 monitors your heart rate, blood oxygenation, sleep quality, and stress levels. This way, it takes care of you before you do, so you know your health status at all times. The Xiaomi Redmi Watch 5 connects to your smartphone via Bluetooth, so you can make and receive calls directly on your wrist. It also features two high-quality microphones and noise cancellation technology, so you can be heard clearly, even when jogging in the countryside. The Xiaomi Redmi Watch 5's battery lasts up to 24 days with typical use, so you can always have it with you without worrying."
+  },
+  {
+    "id":"s2",
+    "name": "Apple Watch Ultra 2 2024 Cellular 49mm",
+    "img": "/assets/photos/smartwatches/ultra2.png",
+    "price": 718.62,
+    "desc": "The Apple Watch Ultra 2 has a titanium case with a satin finish, making it durable yet lightweight. Ideal for everyday use and extreme conditions. Its Always-On Retina LTPO OLED display reaches up to 3000 nits of brightness, so you can see clearly even in bright sunlight without straining your eyes. The battery lasts up to 36 hours in normal use and up to 72 hours in low power mode. Dual-frequency GPS ensures highly accurate navigation, while it is shock and water resistant up to 100 meters. It monitors heart rate, sleep, performs ECG, and detects falls or collisions. With the Cellular feature, it works independently of your mobile phone for calls, messages, and internet wherever you are."
+  },
+  {
+    "id":"s3",
+    "name": "Samsung Galaxy Watch Ultra (2025) LTE 47mm",
+    "img": "/assets/photos/smartwatches/samsung.png",
+    "price": 440.00,
+    "desc": "The Galaxy Watch Ultra (2025) is a durable smartwatch capable of withstanding all conditions. With an IP68 water resistance rating, it can withstand water for use in the pool or sea. The Quick Button simplifies your life by activating GPS and workouts such as triathlon, cycling, or swimming. With the help of AI, it keeps you informed about calories, sleep, and performance. Its battery lasts over 100 hours in Power Saving mode, for stress-free use."
+  },
+  {
+    "id":"s4",
+    "name": "Garmin Tactix 7 AMOLED Edition Sapphire Black",
+    "img": "/assets/photos/smartwatches/garmin.png",
+    "price": 1.299 ,
+    "desc": "The Garmin Tactix 7 AMOLED Edition Sapphire Black is an advanced smartwatch with an AMOLED display and sapphire crystal. It offers GPS, health monitoring, and sports apps. It is water resistant and has a long battery life. You can use it for navigation and notifications from your mobile phone."
+  }
+
+]

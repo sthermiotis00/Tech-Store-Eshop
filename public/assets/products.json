@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p10",
+    "name": "Iphone 17 Pro 512GB Cosmic Orange",
+    "img": "/assets/photos/phones/iphone17pro.png",
+    "categoris": "Phones",
+    "price": 1599,
+    "url": "/phones/iphone-17-pro-512gb-cosmic-orange",
+    "categurl": "/phones"
+  },
+  {
+    "id": "p8",
+    "name": "Samsung Galaxy S25 Ultra 256GB",
+    "img": "/assets/photos/phones/samsunggalaxys25ultra256gb812.png",
+    "categoris": "Phones",
+    "price": 812.00,
+    "url": "/phones/samsung-galaxy-s25-ultra-256gb",
+    "categurl": "/phones"
+  },
+  {
+    "id": "t1",
+    "name": "Samsung QE50Q7F Smart 50\" 4K UHD QLED HDR (2025)",
+    "img": "/assets/photos/tvs/samsung50.png",
+    "categoris": "Tv",
+    "price": 341.00,
+    "url": "/tvs/samsung-qe50q7f-smart-50-4k-uhd-qled-hdr-2025",
+    "categurl": "/tvs"
+  },
+  {
+    "id": "l1",
+    "name": "Apple MacBook Pro 14\" 2025 (M5/16GB/512GB SSD)",
+    "img": "/assets/photos/laptops/macbookm5.png",
+    "categoris": "Laptops",
+    "price": 1829,
+    "url": "/laptops/apple-macbook-pro-14-2025-m5-16gb512gb-ssd10-core-gpu",
+    "categurl": "/laptops"
+  },
+  {
+    "id": "s3",
+    "name": "Samsung Galaxy Watch Ultra (2025) LTE 47mm ",
+    "img": "/assets/photos/smartwatches/samsung.png",
+    "categoris": "Smartwatches",
+    "price": 440.00,
+    "url": "/smartwatches/samsung-galaxy-watch-ultra-2025-lte-47mm",
+    "categurl": "/smartwatches"
+  },
+  {
+    "id": "g1",
+    "name": "Sony PlayStation 5 Digital Edition Slim 1ΤΒ",
+    "img": "/assets/photos/gaming/ps5.png",
+    "categoris": "Gaming",
+    "price": 455.87,
+    "url": "/gaming/sony-playstation-5-digital-edition-slim-1",
+    "categurl": "/gaming"
+  },
+  {
+    "id": "s2",
+    "name": "Apple Watch Ultra 2 2024 Cellular 49mm",
+    "img": "/assets/photos/smartwatches/ultra2.png",
+    "categoris": "Smartwatches",
+    "price": 718.62,
+    "url": "/smartwatches/apple-watch-ultra-2-2024-cellular-49mm",
+    "categurl": "/smartwatches"
+  },
+  {
+    "id": "p6",
+    "name": "Samsung Galaxy Z Fold7 12GB 256GB",
+    "img": "/assets/photos/phones/samsunggalaxyzfold712gb256gb1169.png",
+    "categoris": "Phones",
+    "price": 1169,
+    "url": "phones/samsung-galaxy-z-fold7-12gb-256gb",
+    "categurl": "/phones"
+  }
+]

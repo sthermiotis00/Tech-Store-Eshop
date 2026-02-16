@@ -1,0 +1,23 @@
+[
+  {
+    "id": "l1",
+    "name": "Apple MacBook Pro 14\" 2025 (M5 /16GB/512GB SSD/10-Core GPU)",
+    "img": "/assets/photos/laptops/macbookm5.png",
+    "price": 1829,
+    "desc": "Unmatched power with the M5 chip. Discover the capabilities of the MacBook Pro 14 M5, which incorporates the powerful M5 chip. With a 10-core CPU, you'll enjoy exceptional performance in every task, from video editing and 3D modeling to running demanding applications. It will meet your most complex demands with speed and reliability, without compromising on energy efficiency."
+  },
+  {
+    "id": "l2",
+    "name": "Apple MacBook Air 13\" 2020 (M1 chip-7 Core/8GB/256GB SSD/7-Core GPU)",
+    "img": "/assets/photos/laptops/macbookair.png",
+    "price": 780,
+    "desc": "With the brand new M1 processor, 8-core GPU, zero operating noise, and the power of macOS Big Sur, the new Apple MacBook Air 13' 2020 is Apple's most powerful and lightest laptop."
+  },
+  {
+    "id": "l3",
+    "name": "Asus Vivobook 15 M1502YA-NJ573W (Ryzen 7-5825U/16GB/512GB SSD)",
+    "img": "/assets/photos/laptops/asus.png",
+    "price": 519,
+    "desc": "Powerful performance for your everyday life. With the AMD Ryzen 7-5825U processor, the Asus Vivobook 15 M1502YA-NJ573W offers the power you need to get all your tasks done with ease. From browsing the web and editing documents to viewing multimedia, you'll enjoy smooth and efficient operation without any glitches."
+  }
+]

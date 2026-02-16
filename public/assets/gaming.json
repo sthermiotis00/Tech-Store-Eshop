@@ -1,0 +1,26 @@
+[
+  {
+    "id": "g1",
+    "name": "Sony PlayStation 5 Digital Edition Slim 1ΤΒ",
+    "img": "/assets/photos/gaming/ps5.png",
+    "price": 455.87,
+    "desc": "AMD Ryzen processor. Thanks to the capabilities of the specially designed AMD Ryzen Zen 2 architecture processor, with 8 cores and 16 threads, the Sony PlayStation 5 will offer you top performance for the best gaming experience of your life. With the power of AMD's RDNA 2 graphics, you'll enjoy lifelike graphics in your favorite games, with Ray Tracing for realistic lighting. The PS5 features 16GB GDDR6 RAM for lightning-fast speeds and a 1TB SSD for faster loading and plenty of storage space.",
+    "stock": "10"
+  },
+  {
+    "id": "g2",
+    "name": "Microsoft Xbox Series X",
+    "img": "/assets/photos/gaming/xbox.png",
+    "price": 725.00,
+    "desc": "Fast and efficient. The Microsoft Xbox Series X features a processor that leverages AMD's latest Zen 2 and RDNA 2 technologies, delivering 12 teraflops of processing power and compatibility with four generations of games. It supports DirectX Ray Tracing and Variable Rate Shading (VRS) for realistic lighting and shading. With 1TB SSD capacity, it provides lightning-fast load times and support for up to 120FPS. The new controller is ergonomic, allowing for easy content sharing and connection to PCs or mobile devices.",
+    "stock": "12"
+  },
+  {
+    "id": "g3",
+    "name": "Nintendo Switch 2",
+    "img": "/assets/photos/gaming/nintendo.png",
+    "price": 480.00,
+    "desc": "Nintendo Switch 2 features a 7.9\" LCD screen with vivid colors and high brightness for outdoor use. The improved Joy-Con controllers offer better responsiveness and long battery life. It supports faster charging via USB-C and features a new 150° stand for stability and comfortable viewing. With GameChat, you can share gaming moments with friends, while the built-in microphone provides clear communication.",
+    "stock": "6"
+  }
+]
