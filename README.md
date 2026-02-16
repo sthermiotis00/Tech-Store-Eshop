@@ -3,11 +3,7 @@
 A modern single-page e-commerce application built with React.  
 This project demonstrates component architecture, state management with Context API, routing, search functionality, and cart persistence using local storage.
 
----
 
-## Live Demo
-
-(Add deployment link here if available)
 
 ---
 
@@ -63,7 +59,7 @@ No backend or external database is used. All product data is loaded from local J
 ![Product Details](./public/assets/screenshots/details.png)
 
 ### Cart
-![Cart](./assets/screenshots/cart.png)
+![Cart](./public/assets/screenshots/cart.png)
 
 ### Orders
 ![Orders](./public/assets/screenshots/orders.png)
@@ -75,13 +71,20 @@ No backend or external database is used. All product data is loaded from local J
 
 ## Installation
 
-Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/sthermiotis00/Eshop-React.git
 cd Eshop-React
 
-
- *** ****Install dependencies:***
+2. Install dependencies:
  ```bash
- npm install
+ npm install 
+
+3.  Run the project:
+
+npm start
+
+4.  The application runs at:
+
+http://localhost:3000
