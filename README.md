@@ -1,49 +1,28 @@
-# Tech Store — React E-Commerce Frontend
+# Tech Store — Modern E-Commerce Frontend
 
-A modern single-page e-commerce application built with React.  
-This project demonstrates component architecture, state management with Context API, routing, search functionality, and cart persistence using local storage.
-
-
+This is a modern Single Page Application (SPA) built with React, simulating a comprehensive tech-focused e-commerce experience.
 
 ---
 
-## Features
+## Key Features
 
-- Product browsing by category
-- Search functionality with dynamic results
-- Product details page
-- Add / remove items from cart
-- Quantity management
-- Cart persistence using localStorage
-- Mock checkout flow
-- Orders history page
-- Fully responsive layout
+* **Dynamic Search:** Real-time product filtering and search functionality.
+* **Advanced Cart:** Full cart management including adding/removing items and automatic quantity updates.
+* **Data Persistence:** Persistent storage for cart items and order history using the browser's localStorage.
+* **Responsive Design:** Optimized for mobile, tablet, and desktop displays.
+* **State Management:** Centralized state handling using React Context API.
 
 ---
 
 ## Tech Stack
 
-- React
-- React Router
-- Context API
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Local JSON data
-- Browser localStorage
-
----
-
-## Architecture Overview
-
-The application follows a modular component structure:
-
-- Reusable UI components
-- Centralized state management via Context API
-- Route-based navigation with React Router
-- Persistent cart state using localStorage
-
-No backend or external database is used. All product data is loaded from local JSON files.
+| Technology | Usage |
+| :--- | :--- |
+| React | UI Library |
+| Context API | State Management |
+| React Router | Client-side Routing |
+| CSS Modules | Component Styling |
+| Local JSON | Mock Database |
 
 ---
 
@@ -52,39 +31,45 @@ No backend or external database is used. All product data is loaded from local J
 ### Home Page
 ![Home Page](./public/assets/screenshots/home.png)
 
-### Product
-![Product](./public/assets/screenshots/product.png)
+### Product Listing & Search
+![Search Results](./public/assets/screenshots/search.png)
 
 ### Product Details
 ![Product Details](./public/assets/screenshots/details.png)
 
-### Cart
+### Shopping Cart
 ![Cart](./public/assets/screenshots/cart.png)
 
-### Orders
+### Order History
 ![Orders](./public/assets/screenshots/orders.png)
-
-### Search Results
-![Search Results](./public/assets/screenshots/search.png)
 
 ---
 
-## Installation
+## Installation and Setup
 
-1. Clone the repository:
+Follow these steps to run the project locally:
 
-```bash
-git clone https://github.com/sthermiotis00/Eshop-React.git
-cd Eshop-React
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd Tech-Store-Eshop
+2. **Install dependencies:**
+    ```bash
+    npm install
+3.  **Start the development server:**
+    ```bash
+    npm start
+4.  **Access the application:**
+    The application will be available at http://localhost:3000
 
-2. Install dependencies:
- ```bash
- npm install 
+---
 
-3.  Run the project:
+## Project Structure
 
-npm start
+* `src/context`: Global state management logic.
+* `src/components`: Reusable UI components.
+* `src/pages`: Main application views (Home, Cart, Orders).
+* `public/assets`: Product images and documentation screenshots.
 
-4.  The application runs at:
 
-http://localhost:3000
+    
