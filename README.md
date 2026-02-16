@@ -29,7 +29,7 @@ This is a modern Single Page Application (SPA) built with React, simulating a co
 ## Screenshots
 
 ### Home Page
-![Home Page](./public/assets/screenshots/home.png)
+![Home Page](./public/assets/screenshots/hom.png)
 
 ### Product Listing & Search
 ![Search Results](./public/assets/screenshots/search.png)
