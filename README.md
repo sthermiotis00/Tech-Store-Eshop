@@ -31,8 +31,8 @@ This is a modern Single Page Application (SPA) built with React, simulating a co
 ### Home Page
 ![Home Page](./public/assets/screenshots/hom.png)
 
-### Product Listing & Search
-![Search Results](./public/assets/screenshots/search.png)
+### Product
+![Product Details](./public/assets/screenshots/product.png)
 
 ### Product Details
 ![Product Details](./public/assets/screenshots/details.png)
@@ -42,6 +42,9 @@ This is a modern Single Page Application (SPA) built with React, simulating a co
 
 ### Order History
 ![Orders](./public/assets/screenshots/orders.png)
+
+### Search
+![Search Results](./public/assets/screenshots/search.png)
 
 ---
 
